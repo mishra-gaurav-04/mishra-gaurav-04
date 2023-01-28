@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mishra-gaurav-04
-- 👀 I’m interested in coding,machine learning and blockchain
-- 🌱 I’m currently learning backend web devlopment
+- 👀 I’m interested in coding,web development
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me --> can email me on gaurav.info216@gmail.com
 
