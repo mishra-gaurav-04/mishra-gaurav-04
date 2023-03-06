@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @mishra-gaurav-04
-- 👀 I’m interested in coding,web development
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on backend projects
-- 📫 How to reach me --> can email me on gaurav.info216@gmail.com
+<center><img width=860px height=auto src='https://magiccopy.xyz/assets/images/hadder.gif' alt=""></img></center>
+<h1 align="center" class="font">Hi 👋, I'm Gaurav Mishra</h1>
+<h3 align="center">while(TRUE){ <br> cout<<"EXPLORING...";}</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-<!---
-mishra-gaurav-04/mishra-gaurav-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=palashb01&label=Profile%20views&color=0e75b6&style=flat" alt="palashb01" /> </p>
+
+- 🔭 I’m currently working on **Web Development**
+
+- 🌱 I’m currently learning **Django**
+
+- 👯 Aim for 2023 **Contribute to open source organizations**
+
+- 📫 How to reach me **gaurav.info216@gmail.com**
+
+<h1 class="font">Connect With Me:</h1>
+<p><a href="https://www.linkedin.com/in/gaurav-mishra-34b555248/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin" alt=""></a></p>
+
+<h1 align="left" class="font">Languages and Tools:</h1>
+<p align="center"><a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=react,next,nest,js,nodejs,expressjs,cpp,java,heroku,firebase,mongodb,tailwindcss,bootstrap,css,materialui" alt="My Skills"></a></p>
+
+<p align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=ddagwldjt5bo44bxngyms3ru5" alt="Alt text"></p>
+
+<p align="center" ><a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palashb01&amp;langs_count=7&amp;theme=tokyonight" alt="My GitHub Language Stats"></a></p>
+<p align="center"><a  href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark"><img alt="palashb01's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/palashb01?cardType=level-alternate&theme=github-dark" /></a></p>
+<p align="center"><a href="https://github.com/palashb01/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=palashb01&amp;theme=blue-green" alt="palashb01&#39;s github streak"></a></p>
