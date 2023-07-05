@@ -15,5 +15,5 @@
 <p><a href="https://www.linkedin.com/in/gaurav-mishra-34b555248/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin" alt=""></a></p>
 
 <h1 align="left" class="font">Languages and Tools:</h1>
-<p align="center"><a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=react,graphql,js,nodejs,expressjs,cpp,java,heroku,python,docker,html,django,mongodb,tailwindcss,bootstrap,css,materialui" alt="My Skills"></a></p>
+<p align="center"><a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=react,graphql,js,nodejs,expressjs,cpp,java,heroku,python,docker,html,django,mongodb,tailwindcss,bootstrap,css,materialui,sql" alt="My Skills"></a></p>
 
